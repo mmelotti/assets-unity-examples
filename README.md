@@ -13,3 +13,10 @@ Folder How To
 Folder Other issues
 
 Folder or file Dicusssion
+
+
+TODO: 
+- add more files,
+- build project without photon,
+- upload project without photon,
+
